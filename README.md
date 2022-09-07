@@ -5,7 +5,7 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 
 
 ## Recent :computer: stuff
-[Path Finding](https://olofloov.github.io/path-finding/)
+[Path Finding](https://olofloov.github.io/pathfinding/)
 <br />
 ![Pathfinding](https://github.com/OlofLoov/OlofLoov/blob/master/pathfinding.gif)
 
