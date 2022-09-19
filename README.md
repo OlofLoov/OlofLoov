@@ -3,8 +3,14 @@
 Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 
 
-
 ## Recent :computer: stuff
+[Particle System](https://github.com/OlofLoov/sfml-particle-system/)
+<br />
+![Particle System](https://github.com/OlofLoov/OlofLoov/blob/master/particle.gif)
+
+<br />
+<br />
+
 [Path Finding](https://olofloov.github.io/pathfinding/)
 <br />
 ![Pathfinding](https://github.com/OlofLoov/OlofLoov/blob/master/pathfinding.gif)
