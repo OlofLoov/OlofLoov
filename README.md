@@ -4,9 +4,18 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 
 
 ## Recent :computer: stuff
+
 [Particle System](https://github.com/OlofLoov/sfml-particle-system/)
 <br />
 ![Particle System](https://github.com/OlofLoov/OlofLoov/blob/master/particle.gif)
+
+<br />
+<br />
+
+[Golf watchOS app](https://github.com/OlofLoov/slice/)
+<br />
+![Golf watchOS app](https://github.com/OlofLoov/OlofLoov/blob/master/golf-watch-app.gif)
+
 
 <br />
 <br />
