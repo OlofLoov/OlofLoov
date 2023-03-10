@@ -12,21 +12,6 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 <br />
 <br />
 
-[Golf watchOS app](https://github.com/OlofLoov/slice/)
-<br />
-![Golf watchOS app](https://github.com/OlofLoov/OlofLoov/blob/master/golf-watch-app.gif)
-
-
-<br />
-<br />
-
-PostGis, Mapbox, ASP.NET Core MVC
-<br />
-![GisTool](https://github.com/OlofLoov/OlofLoov/blob/master/gis-tool.gif)
-
-<br />
-<br />
-
 [Path Finding](https://olofloov.github.io/pathfinding/)
 <br />
 ![Pathfinding](https://github.com/OlofLoov/OlofLoov/blob/master/pathfinding.gif)
@@ -47,7 +32,20 @@ PostGis, Mapbox, ASP.NET Core MVC
 
 ![Sorting Algorithms](https://github.com/OlofLoov/OlofLoov/blob/master/sort.gif)
 <br />
+<br />
 
+[Golf watchOS app](https://github.com/OlofLoov/slice/)
+<br />
+![Golf watchOS app](https://github.com/OlofLoov/OlofLoov/blob/master/golf-watch-app.gif)
+
+<br />
+<br />
+
+PostGis, Mapbox, ASP.NET Core MVC
+<br />
+![GisTool](https://github.com/OlofLoov/OlofLoov/blob/master/gis-tool.gif)
+
+<br />
 <br />
 
 [URL Shortener](https://github.com/OlofLoov/URL-shortener/)
