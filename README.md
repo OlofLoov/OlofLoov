@@ -12,6 +12,14 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 <br />
 <br />
 
+[AI Learns Geometry Dash](https://github.com/OlofLoov/ai-learns-geometry-dash/)
+<br />
+![ai-learns-geometry-dash](https://github.com/OlofLoov/OlofLoov/blob/master/geom-genetic-algo.gif)
+
+<br />
+<br />
+
+
 [Path Finding](https://olofloov.github.io/pathfinding/)
 <br />
 ![Pathfinding](https://github.com/OlofLoov/OlofLoov/blob/master/pathfinding.gif)
