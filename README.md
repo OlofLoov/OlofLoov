@@ -30,7 +30,7 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 [SFML Blek Clone](https://github.com/OlofLoov/sfml-blek-clone/)
 <br />
 
-![SFML Blek Clone](https://github.com/OlofLoov/OlofLoov/blob/master/blek-clone.gif)
+![SFML Blek Clone](https://github.com/OlofLoov/OlofLoov/blob/master/blek.gif)
 
 <br />
 <br />
