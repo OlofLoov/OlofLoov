@@ -58,7 +58,4 @@ PostGis, Mapbox, ASP.NET Core MVC
 
 <br />
 <br />
-
-[URL Shortener](https://github.com/OlofLoov/URL-shortener/)
-<br />
 [Convex Hull](https://olofloov.github.io/convex-hull/)
