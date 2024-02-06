@@ -5,6 +5,9 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 
 ## Recent :computer: stuff
 
+[AI Podcast Creator](https://open.spotify.com/show/0pRzrIitIp2Gp7Lm3N1jsE?si=01cd4a98e4814d1b)
+![Weather Podcast](https://github.com/OlofLoov/OlofLoov/blob/master/ai-podcast-creator.png)
+
 [Particle System](https://github.com/OlofLoov/sfml-particle-system/)
 <br />
 ![Particle System](https://github.com/OlofLoov/OlofLoov/blob/master/particle.gif)
