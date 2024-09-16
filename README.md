@@ -4,7 +4,7 @@ Fullstack Developer Consultant at [Kvadrat](https://kvadrat.se)
 
 
 ## Recent :computer: stuff
-Inspired by my own child’s love for coloring, i created a Next.js application generates unique drawings for kids to color using a LoRA model of SDXL. 
+Inspired by my own child’s love for coloring, i created a Next.js application generates unique drawings for kids to color.
 The app uses a custom made LoRa model of SDXL hosted at replicate.ai and Supabase for authentication, storage, and a PostgreSQL database.
 ![Color app](https://github.com/OlofLoov/OlofLoov/blob/master/coloring-pages.png) 
 
