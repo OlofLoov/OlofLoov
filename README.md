@@ -28,7 +28,7 @@ Particle System simulator. Built with C++, SFML and imgui.
 
 [AI Learns Geometry Dash](https://github.com/OlofLoov/ai-learns-geometry-dash/)
 <br />
-Simple AI built using reinforcement learning techniques. The AI learns to complete levels in a Unity environment by evolving and improving its strategies over time. By using trial and error, the AI progressively refines its behavior, aiming to optimize its performance on each run. The entire system is implemented in C# and integrated with Unity, showcasing the power of reinforcement learning in game development.
+AI built using reinforcement learning techniques. The AI learns to complete levels in a Unity environment by evolving and improving its strategies over time. By using trial and error, the AI progressively refines its behavior, aiming to optimize its performance on each run. The entire system is implemented in C# and integrated with Unity, showcasing the power of reinforcement learning in game development.
 <br />
 ![ai-learns-geometry-dash](https://github.com/OlofLoov/OlofLoov/blob/master/geom-genetic-algo.gif)
 
