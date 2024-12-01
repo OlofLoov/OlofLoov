@@ -10,7 +10,7 @@ Inspired by my own child’s love for coloring, i created a Next.js application 
 The app uses a custom made LoRa model of SDXL hosted at replicate.ai and Supabase for authentication, storage, and a PostgreSQL database.
 ![Color app](https://github.com/OlofLoov/OlofLoov/blob/master/coloring-pages.png) 
 
-[AI Podcast Creator](https://open.spotify.com/show/0pRzrIitIp2Gp7Lm3N1jsE?si=01cd4a98e4814d1b)
+[AI Podcast Creator](https://open.spotify.com/show/1kDCSlulzBsD5T3JFg0irN?si=1f796da21d9e42d9)
 <br/>
 A simple weather podcast generator that automates the creation of daily weather updates. It fetches weather data from a public API, utilizes OpenAI's language model to transform the raw JSON data into a natural-sounding broadcast script, and then employs ElevenLabs for speech synthesis to generate the podcast in audio format. The result is a fully automated weather podcast that provides clear and engaging updates.
 
